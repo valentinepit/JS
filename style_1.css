@@ -1,0 +1,14 @@
+html{
+    margin: 0;
+}
+
+.basket_item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.basket_text{
+    font-size: 24px;
+    padding: 20px 30px;
+}
+}
