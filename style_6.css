@@ -1,0 +1,32 @@
+html{
+    margin: 0;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.small{
+    /* background-image: url('small/boat_1.jpg'); */
+    width: 400px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+footer{
+    align-content: center;
+}
+
+.big{
+    margin: auto;
+    margin-top: 25px;
+    width: 800px;
+    height: 800px;
+    background-color: gray;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
